@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chimaris
-- 👀 I’m interested in JavaScript, Typescript, Python and its frameworks. 
+- 👀 I’m interested in JavaScript, Typescript, Python and their frameworks. 
 - 🌱 I’m currently learning Data Structure, Algorithm and C language
 - 💞️ I’m avaliable to collaborate
 - 📫 How to reach me wendumaris@gmail.com
