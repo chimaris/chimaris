@@ -42,11 +42,11 @@ Feel free to explore these projects and reach out if you’d like to collaborate
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chimaris&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chimaris&layout=compact&theme=dark" alt="Top Languages" />  
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=chimaris&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chimaris&theme=dark" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=chimaris&theme=dark" alt="GitHub Streak" />
 </div>
 
 
