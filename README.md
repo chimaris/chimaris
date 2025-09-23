@@ -33,6 +33,7 @@ Feel free to explore these projects and reach out if you’d like to collaborate
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chimaris&layout=compact&theme=dark" alt="Top Languages" />  
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=chimaris&theme=dark" alt="chimaris" /></p>
 </div>
 
 
